@@ -32,7 +32,7 @@ int main()
 
 		if (ayNo < 1 || ayNo > 12)
 		{
-			printf("%d => Hatalı ay numarası! Tekrar deneyiniz. \n******** \n", ayNo);
+			printf("%d => Hatalı ay numarası! Tekrar deneyiniz. \n********* \n", ayNo);
 		}
 		else
 		{
