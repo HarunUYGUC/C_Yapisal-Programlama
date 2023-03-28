@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <locale.h>
 
-void gunSayisi(int ayNu)
+void gun_sayisi(int ayNu)
 {
 	if (ayNu == 2)
 	{
@@ -36,7 +36,7 @@ int main()
 		}
 		else
 		{
-			gunSayisi(ayNo);
+			gun_sayisi(ayNo);
 			break;
 		}
 	}
