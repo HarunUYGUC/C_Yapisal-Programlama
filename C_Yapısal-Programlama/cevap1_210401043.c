@@ -31,9 +31,14 @@ int main()
 		scanf_s("%d", &ayNo);
 
 		if (ayNo < 1 || ayNo > 12)
+		{
 			printf("%d => Hatalý ay numarasý! Tekrar deneyiniz. \n******** \n", ayNo);
+		}
 		else
+		{
 			gunSayisi(ayNo);
+			break;
+		}
 	}
 
 	return 0;
