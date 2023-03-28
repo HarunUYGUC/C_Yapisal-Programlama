@@ -18,6 +18,9 @@
     <ClCompile Include="cevap1_210401043.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="eski_cevap2_210401043.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="cevap2_210401043.c">
       <Filter>Source Files</Filter>
     </ClCompile>

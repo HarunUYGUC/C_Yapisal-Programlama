@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="cevap1_210401043.c" />
+    <ClCompile Include="eski_cevap2_210401043.c" />
     <ClCompile Include="cevap2_210401043.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
